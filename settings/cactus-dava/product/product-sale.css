@@ -55,6 +55,10 @@
     line-height: 0px;
   }
   
+  .left-sale {
+    margin-right: -10px;
+  }
+
   .price-sale {
     font-size: 16px;
     margin-top: 20px;

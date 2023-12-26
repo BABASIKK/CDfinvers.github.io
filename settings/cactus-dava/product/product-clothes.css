@@ -2,7 +2,7 @@
     display: flex;
     flex-wrap: nowrap;
     justify-content: space-between;
-    margin-top: -70px;
+    margin-top: 0px;
     margin-left: 150px;
     font-family: "Ubuntu", monospace;
     font-size: 20px;
@@ -29,7 +29,7 @@
   
   .text-container-clothes {
     position: relative;
-    top: -40px;
+    top: 30px;
     left: 50px;
     font-size: 25px;
     font-family: "Ubuntu", monospace;
